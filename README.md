@@ -1,11 +1,14 @@
->###  ⭐ Guilherme de Jesus Vieira ⭐ 
->
->       
->#### *I am doing Computing at IFAL - Instituto Federal de Alagoas*
->
->
->>#### printf("Hello World!\n C was my first programming language learned\n");
+#  ⭐ Guilherme de Jesus Vieira ⭐ 
 
+      
+>#### *Doing Computing at IFAL - Instituto Federal de Alagoas <3*
+>
+
+
+><a href="https://instagram.com/guilherme_gjv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+><a href = "mailto:guijesus.info@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+>
+>
 ##
 
  <div>
@@ -26,6 +29,7 @@
 >   
 >   ![](https://img.shields.io/badge/Cocos_Creator-92928f?style=flat&logo=Cocos)
 >
+
 >### Languages
 >   <div style="display: inline_block"><br>
 >  
@@ -40,4 +44,12 @@
 >  <img align="center" alt="Gui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> Python 
 >
 >  <img align="center" alt="Gui-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> Git
+>
+   
+   
+#### printf("Hello World!\n C was my first programming language lol \n");
+   
+#### console.log("I've learned TypeScript and Cocos Creator in a gaming development course :D ")
+   
+#### System.out.println("Currently learning Java + OOP at school");
    
