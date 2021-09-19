@@ -60,5 +60,5 @@
    
 #### System.out.println("Currently learning Java + OOP at school");
         
-#### escreva("Since 2020 tutoring the freshmen in programming logic with pseudocode at IFAL")
+#### escreva("Since 2020 tutoring the freshmen in programming logic with Portugol pseudocode at IFAL")
 
