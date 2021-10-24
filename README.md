@@ -1,6 +1,6 @@
 #  ⭐ Guilherme de Jesus Vieira ⭐ 
 
-      
+
 >#### *Doing Computing at IFAL - Instituto Federal de Alagoas <3*
 >
 >
@@ -35,19 +35,20 @@
 >  <img align="center" alt="Gui-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 >  <img align="center" alt="Gui-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 >
-
+        
+>### Learning
+>
+><img align="center" alt="Gui-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> 
+><img align="center" alt="Gui-Golang" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"> 
+>
+      
 >### Know something
 >
 > <img align="center" alt="Gui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 > <img align="center" alt="Gui-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">         
 >  <img align="center" alt="Gui-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
->
-        
->### Learning
->
-><img align="center" alt="Gui-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> 
->
-      
+>        
+
 >### Intend to learn
 >
 ><img align="center" alt="Gui-CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
