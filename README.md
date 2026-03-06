@@ -3,9 +3,9 @@
 
 
   <div align="left">
-    <a href="https://github.com/guilherme-gjv">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilherme-gjv&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-gjv&layout=compact&langs_count=7&theme=dark"/>
+    <!-- <a href="https://github.com/guilherme-gjv"> -->
+    <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilherme-gjv&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
+    <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-gjv&layout=compact&langs_count=7&theme=dark"/> -->
   </div>
     <section>
       <h3>Skills ⚔️</h3> 
