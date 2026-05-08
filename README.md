@@ -1,29 +1,60 @@
-<main>
-<h1 align="left"> ⭐ Guilherme de Jesus Vieira ⭐ </h1>
+<div align="center">
 
+# ⭐ Guilherme de Jesus Vieira ⭐
 
-  <div align="left">
-    <!-- <a href="https://github.com/guilherme-gjv"> -->
-    <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilherme-gjv&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
-    <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-gjv&layout=compact&langs_count=7&theme=dark"/> -->
-  </div>
-    <section>
-      <h3>Skills ⚔️</h3> 
-      <img align="center" alt="Nodejs" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />   
-      <img align="center" alt="TS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />   
-      <img align="center" alt="React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />   
-      <img align="center" alt="Nextjs" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />  
-      <img align="center" alt="TailwindCSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-      <img align="center" alt="Gatsby" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" />  
-      <img align="center" alt="Dart" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />   
-      <img align="center" alt="postgresql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />  
-      <img align="center" alt="mongodb" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-      <img align="center" alt="git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-      <img align="center" alt="github" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-    </section>
-    <section>
-      <h3>Learning 📚 </h3> 
-      <img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />   
-      <img align="center" alt="Flutter" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />  
-    </section>
-</main>
+Full Stack Developer • Reseacher
+
+</div>
+
+---
+
+## ⚔️ Tech Stack
+
+### Backend
+<p>
+  <img alt="Node.js" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img alt="TypeScript" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img alt="Java" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+</p>
+
+### Frontend
+<p>
+  <img alt="React" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img alt="Next.js" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+  <img alt="TailwindCSS" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+  <img alt="Gatsby" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" />
+</p>
+
+### Mobile
+<p>
+  <img alt="Flutter" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+  <img alt="Dart" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+</p>
+
+### Database
+<p>
+  <img alt="PostgreSQL" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img alt="MongoDB" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+</p>
+
+### Tools
+<p>
+  <img alt="Git" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt="GitHub" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img alt="Docker" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img alt="Linux" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+</p>
+
+---
+
+## 🌎 Connect With Me
+
+<p>
+  <a href="https://github.com/guilherme-gjv">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/guilherme-de-jesus-vieira">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
